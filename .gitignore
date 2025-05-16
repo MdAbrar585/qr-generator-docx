@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build artifacts
+dist/
+build/
+
+# Logs
+*.log
+
+# Upload temp files
+server/uploads/
